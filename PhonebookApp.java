@@ -1,6 +1,6 @@
 import java.util.*;
 
-class PhoneBook {
+class PhoneBookApp {
     private Map<String, String> contacts;
 
     public PhoneBook() {
